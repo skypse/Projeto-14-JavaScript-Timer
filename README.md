@@ -1,6 +1,5 @@
 # ⏳ Timer
-
-
+https://github.com/skypse/Projeto-14-JavaScript-Timer/assets/97822775/f39bd1c8-b03d-4e70-9878-fa2b73fe554c
 
 Um simples cronômetro construído com HTML, CSS e JavaScript. Este projeto permite iniciar, pausar e reiniciar o cronômetro com um único clique.
 
